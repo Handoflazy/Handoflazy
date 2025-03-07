@@ -9,18 +9,18 @@ Hello! I'm Doan Thanh Cao Nguyen, an aspiring Game Developer currently working w
 
 <a href="https://github.com/handoflazy/DinorJump/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=handoflazy&repo=DinorJump&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=handoflazy&repo=DinorJump&theme=tokyonight" />
 </a>    
 <a href="https://github.com/Handoflazy/Dungeon-Breaker/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Handoflazy&repo=Dungeon-Breaker&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Handoflazy&repo=Dungeon-Breaker&theme=synthwave" />
 </a>
 
 <a href="https://github.com/Handoflazy/Tennis-Mobile/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Handoflazy&repo=Tennis-Mobile&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Handoflazy&repo=Tennis-Mobile&theme=dracula" />
 </a>    
 <a href="https://github.com/Handoflazy/Mini-Hero/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Handoflazy&repo=Mini-Hero&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Handoflazy&repo=Mini-Hero&theme=cobalt" />
 </a>
